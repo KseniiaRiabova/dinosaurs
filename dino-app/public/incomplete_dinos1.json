@@ -1086,7 +1086,7 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/deinoc.jpg",
     "typeOfDinosaur": "large theropod",
     "length": 10,
-    "weight": "N/A",
+    "weight": 7000,
     "diet": "omnivorous",
     "whenLived": "Late Cretaceous, 70-66 million years ago",
     "foundIn": "Mongolia",
@@ -1101,14 +1101,14 @@
     "imageSrc": "N/A",
     "typeOfDinosaur": "large theropod",
     "length": 8.1,
-    "weight": "N/A",
+    "weight": 800,
     "diet": "carnivorous",
     "whenLived": "Late Cretaceous, 99-94 million years ago",
     "foundIn": "Morocco",
     "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria",
     "namedBy": "Sereno, Duthiel, Iarochene, Larsson, Lyon, Magwene, Sidor, Varricchio and Wilson (1996)",
     "typeSpecies": "agilis",
-    "description": "Deltadromeus is known from a single partial skeleton."
+    "description": "Deltadromeus was a large theropod dinosaur that lived during the Cretaceous period, approximately 95 million years ago. It was a swift and agile predator, known for its long, slender legs and streamlined body. Deltadromeus likely hunted in packs, preying on smaller dinosaurs and other animals in the ancient ecosystems of what is now Africa. Deltadromeus is known from a single partial skeleton."
   },
   {
     "id": 84,
@@ -1116,14 +1116,14 @@
     "imageSrc": "N/A",
     "typeOfDinosaur": "sauropod",
     "length": 20,
-    "weight": "N/A",
+    "weight": 5300,
     "diet": "herbivorous",
     "whenLived": "Late Jurassic, 150-135 million years ago",
     "foundIn": "Tanzania",
     "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Diplodocoidea, Dicraeosauridae",
     "namedBy": "Janensch (1914)",
     "typeSpecies": "hansemanni",
-    "description": "This dinosaur is named 'forked lizard' because of the forked spines in its backbone."
+    "description": "Dicraeosaurus was a herbivorous sauropod dinosaur that lived during the Late Jurassic period. It was characterized by its long neck, relatively short stature compared to other sauropods, and double-beamed spines on its vertebrae. These spines likely supported a sail or hump, possibly for thermoregulation or display purposes. Dicraeosaurus roamed the ancient landscapes of present-day Africa, browsing on vegetation with its specialized teeth and likely moving in herds for protection against predators. This dinosaur is named 'forked lizard' because of the forked spines in its backbone."
   },
   {
     "id": 85,
@@ -1146,7 +1146,7 @@
     "imageSrc": "N/A",
     "typeOfDinosaur": "pachycephalosaur",
     "length": 4,
-    "weight": "N/A",
+    "weight": 165,
     "diet": "herbivorous",
     "whenLived": "Late Cretaceous, 66 million years ago",
     "foundIn": "USA",
@@ -1161,7 +1161,7 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/dreadnoughtus-c.jpg",
     "typeOfDinosaur": "sauropod",
     "length": 26,
-    "weight": "N/A",
+    "weight": 52000,
     "diet": "herbivorous",
     "whenLived": "Late Cretaceous, 76-70 million years ago",
     "foundIn": "Argentina",
@@ -1176,14 +1176,14 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/dryo.jpg",
     "typeOfDinosaur": "small ornithopod",
     "length": 4,
-    "weight": "N/A",
+    "weight": 95,
     "diet": "herbivorous",
     "whenLived": "Late Jurassic, 155-140 million years ago",
     "foundIn": "Tanzania, USA",
     "taxonomy": "Dinosauria, Ornithischia, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Dryosauridae",
     "namedBy": "Marsh (1894)",
     "typeSpecies": "altus",
-    "description": "N/A"
+    "description": "Dryosaurus was a herbivorous dinosaur that lived during the Late Jurassic period, approximately 155 to 140 million years ago. It belonged to the group of dinosaurs known as ornithopods, characterized by their bipedal stance and herbivorous diet. Dryosaurus had a slender body, long legs, and a relatively small head with leaf-shaped teeth adapted for chewing plant material. It likely browsed on low-lying vegetation in the forests and plains of North America, where it inhabited diverse ecosystems alongside other dinosaurs like Allosaurus and Stegosaurus. With its agile build and keen senses, Dryosaurus may have been able to evade predators through swift movement or by seeking refuge in dense vegetation."
   },
   {
     "id": 92,
@@ -1191,7 +1191,7 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/drypto.jpg",
     "typeOfDinosaur": "large theropod",
     "length": 6.4,
-    "weight": "N/A",
+    "weight": 3200,
     "diet": "carnivorous",
     "whenLived": "Late Cretaceous, 84-66 million years ago",
     "foundIn": "USA",
@@ -1205,8 +1205,8 @@
     "name": "Dubreuillosaurus",
     "imageSrc": "N/A",
     "typeOfDinosaur": "large theropod",
-    "length": "N/A",
-    "weight": "N/A",
+    "length": 4,
+    "weight": 165,
     "diet": "carnivorous",
     "whenLived": "Late Jurassic, 169-164 million years ago",
     "foundIn": "France",
@@ -1220,15 +1220,15 @@
     "name": "Edmontonia",
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Edmontonia.jpg",
     "typeOfDinosaur": "armoured dinosaur",
-    "length": 4,
-    "weight": "N/A",
+    "length": 5,
+    "weight": 1600,
     "diet": "herbivorous",
     "whenLived": "Late Cretaceous, 76-74 million years ago",
     "foundIn": "Canada",
     "taxonomy": "Dinosauria, Ornithischia, Thyreophora, Ankylosauria, Nodosauridae",
     "namedBy": "Sternberg (1928)",
     "typeSpecies": "longiceps",
-    "description": "N/A"
+    "description": "Edmontonia was a heavily armored herbivorous dinosaur from the Late Cretaceous period, known for its bony plates and spikes, which provided defense against predators."
   },
   {
     "id": 95,
@@ -1251,14 +1251,14 @@
     "imageSrc": "N/A",
     "typeOfDinosaur": "ceratopsian",
     "length": 6,
-    "weight": "N/A",
+    "weight": 1100,
     "diet": "herbivorous",
     "whenLived": "Late Cretaceous, 74 million years ago",
     "foundIn": "USA",
     "taxonomy": "Dinosauria, Ornithischia, Neornithischia, Cerapoda, Marginocephalia, Ceratopsia, Neoceratopsia, Coronosauria, Ceratopsidae, Centrosaurinae",
     "namedBy": "Sampson  (1995)",
     "typeSpecies": "procurvicornis",
-    "description": "Einiosaurus had a large downward-curving nasal horn."
+    "description": "Einiosaurus was a herbivorous dinosaur from the Late Cretaceous period, characterized by its unique forward-curving horns on the top of its skull, which were likely used for display and defense."
   },
   {
     "id": 97,
@@ -1266,14 +1266,14 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Elaphrosaurus.jpg",
     "typeOfDinosaur": "large theropod",
     "length": 6.2,
-    "weight": "N/A",
+    "weight": 250,
     "diet": "carnivorous",
     "whenLived": "Late Jurassic, 154-151 million years ago",
     "foundIn": "Tanzania",
     "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Ceratosauria, Neoceratosauria",
     "namedBy": "Janensch (1920)",
     "typeSpecies": "bambergi",
-    "description": "N/A"
+    "description": "Elaphrosaurus was a slender, carnivorous dinosaur from the Late Jurassic period, known for its lightweight build and long legs, suggesting it was a fast runner. It had a relatively small skull with sharp teeth, indicating it was a predator, likely preying on smaller dinosaurs and other animals."
   },
   {
     "id": 98,
@@ -1281,22 +1281,22 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Emausaurus.jpg",
     "typeOfDinosaur": "armoured dinosaur",
     "length": 2,
-    "weight": "N/A",
+    "weight": 20,
     "diet": "herbivorous",
     "whenLived": "Mid Jurassic, 190-180 million years ago",
     "foundIn": "Germany",
     "taxonomy": "Dinosauria, Ornithischia, Thyreophora",
     "namedBy": "Haubold (1991)",
     "typeSpecies": "ernsti",
-    "description": "N/A"
+    "description": "Emausaurus was a small, herbivorous dinosaur from the Mid Jurassic period. It belonged to the group of dinosaurs known as sauropodomorphs, which includes some of the earliest ancestors of the giant, long-necked sauropods. Emausaurus likely had a relatively small body size and walked on all fours, with a body structure adapted for browsing on vegetation."
   },
   {
     "id": 99,
     "name": "Eolambia",
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Eolambia.jpg",
     "typeOfDinosaur": "large ornithopod",
-    "length": "N/A",
-    "weight": "N/A",
+    "length": 6.7,
+    "weight": 1300,
     "diet": "herbivorous",
     "whenLived": "Late Cretaceous, 99-94 million years ago",
     "foundIn": "USA",
@@ -1318,7 +1318,7 @@
     "taxonomy": "Dinosauria, Saurischia, Theropoda",
     "namedBy": "Sereno, Forster, Rogers and Monetta (1993)",
     "typeSpecies": "lunensis",
-    "description": "N/A"
+    "description": "Eoraptor, meaning 'dawn plunderer,' was a small, early dinosaur from the Late Triassic period, approximately 228 million years ago. It is considered one of the earliest known dinosaurs, belonging to the group known as theropods, which includes the famous Tyrannosaurus rex and Velociraptor. Eoraptor was relatively small, bipedal, and carnivorous, likely hunting small prey. Its fossil remains have been found in what is now Argentina."
   },
   {
     "id": 101,
