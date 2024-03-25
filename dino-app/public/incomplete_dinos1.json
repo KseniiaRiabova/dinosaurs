@@ -5,7 +5,7 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/aardonyx.jpg",
     "typeOfDinosaur": "prosauropod",
     "length": 8,
-    "weight": "N/A",
+    "weight": 1700,
     "diet": "herbivorous",
     "whenLived": "Early Jurassic, 199-189 million years ago",
     "foundIn": "South Africa",
@@ -20,14 +20,14 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/abeli.jpg",
     "typeOfDinosaur": "large theropod",
     "length": 9,
-    "weight": "N/A",
+    "weight": 1600,
     "diet": "carnivorous",
     "whenLived": "Late Cretaceous, 74-70 million years ago",
     "foundIn": "Argentina",
     "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Ceratosauria, Abelisauridae, Abelisaurinae",
     "namedBy": "Bonaparte and Novas (1985)",
     "typeSpecies": "comahuensis",
-    "description": "N/A"
+    "description": "Abelisaurus comahuensis was a carnivorous dinosaur that lived during the Late Cretaceous period, approximately 80 million years ago. It was first discovered in Argentina and is characterized by its robust skull, powerful jaws filled with sharp teeth, and relatively small forelimbs compared to its large hind limbs. Abelisaurus likely preyed on smaller dinosaurs and other animals of its time, using its speed and agility to hunt. Despite its fearsome appearance, much about Abelisaurus, including its behavior and social structure, remains a subject of scientific debate and ongoing research."
   },
   {
     "id": 3,
@@ -35,14 +35,14 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/achelou.jpg",
     "typeOfDinosaur": "ceratopsian",
     "length": 6,
-    "weight": "N/A",
+    "weight": 2600,
     "diet": "herbivorous",
     "whenLived": "Late Cretaceous, 83-70 million years ago",
     "foundIn": "USA",
     "taxonomy": "Dinosauria, Ornithischia, Neornithischia, Cerapoda, Marginocephalia, Ceratopsia, Neoceratopsia, Coronosauria, Ceratopsidae, Centrosaurinae",
     "namedBy": "Sampson  (1995)",
     "typeSpecies": "horneri",
-    "description": "N/A"
+    "description": "Achelousaurus was a herbivorous dinosaur that lived during the Late Cretaceous period, around 74 to 65 million years ago. It belonged to the group of ceratopsian dinosaurs, characterized by their frilled skulls and often elaborate head ornaments. Achelousaurus was first discovered in Montana, USA, and is known for its distinctive nasal horn, which curved forward and resembled a small hook. This dinosaur likely roamed in herds, grazing on vegetation with its sharp beak and teeth. Its name, Achelousaurus, is derived from Achelous, a Greek river deity, due to the abundance of water-related fossil finds in the region where it was discovered."
   },
   {
     "id": 4,
@@ -50,14 +50,14 @@
     "imageSrc": "N/A",
     "typeOfDinosaur": "large theropod",
     "length": 5,
-    "weight": "N/A",
+    "weight": 280,
     "diet": "carnivorous",
     "whenLived": "Late Cretaceous, 99-84 million years ago",
     "foundIn": "Mongolia",
     "taxonomy": "Dinosauria, Saurischia, Theropoda, Dromaeosauridae",
     "namedBy": "Perle, Norell and Clark (1999)",
     "typeSpecies": "giganteus",
-    "description": "N/A"
+    "description": "Achillobator was a carnivorous dinosaur that lived during the Late Cretaceous period, approximately 90 to 80 million years ago. This theropod dinosaur belonged to the dromaeosaurid family, which includes famous relatives like Velociraptor. Achillobator was discovered in Mongolia and was a formidable predator, equipped with sharp teeth, a long tail for balance, and sickle-shaped claws on its hind limbs, which it likely used to grasp and disembowel prey. It was a swift and agile hunter, possibly hunting in packs to take down larger prey such as herbivorous dinosaurs. Despite its smaller size compared to some other predators of its time, Achillobator was an apex predator in its ecosystem."
   },
   {
     "id": 5,
@@ -65,14 +65,14 @@
     "imageSrc": "N/A",
     "typeOfDinosaur": "large theropod",
     "length": 12,
-    "weight": "N/A",
+    "weight": 5800,
     "diet": "carnivorous",
     "whenLived": "Early Cretaceous, 115-105 million years ago",
     "foundIn": "Canada, USA",
     "taxonomy": "Dinosauria, Saurischia, Theropoda, Carcharodontosauridae",
     "namedBy": "Stovall and Langston (1950)",
     "typeSpecies": "atokensis",
-    "description": "N/A"
+    "description": "Acrocanthosaurus atokensis was a large theropod dinosaur that lived during the Early Cretaceous period, around 115 to 105 million years ago. Known for its distinctive high spines along its back, Acrocanthosaurus roamed the ancient landscapes of North America, particularly in what is now Oklahoma, Texas, and possibly other southern states. It was one of the largest carnivorous dinosaurs of its time, measuring up to 38 feet (11.5 meters) in length and weighing around 6 tons. This apex predator likely preyed on large herbivorous dinosaurs like sauropods and ornithopods, using its powerful jaws filled with serrated teeth to hunt and consume its prey. Despite its formidable appearance, Acrocanthosaurus, like many dinosaurs, still holds many mysteries for paleontologists, who continue to study and learn more about this fascinating predator."
   },
   {
     "id": 6,
@@ -80,14 +80,14 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/aegypto.jpg",
     "typeOfDinosaur": "sauropod",
     "length": 15,
-    "weight": "N/A",
+    "weight": 7600,
     "diet": "herbivorous",
     "whenLived": "Late Cretaceous, 98-93 million years ago",
     "foundIn": "Egypt",
     "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Macronaria, Camarasauromorpha, Titanosauriformes, Titanosauria",
     "namedBy": "Stromer (1932)",
     "typeSpecies": "baharijensis",
-    "description": "N/A"
+    "description": "Aegyptosaurus was a herbivorous sauropod dinosaur that lived during the Late Cretaceous period, approximately 95 to 70 million years ago. It was discovered in Egypt and was part of the larger group of titanosaurs, known for their enormous size and long necks. Aegyptosaurus reached lengths of around 50 to 70 feet (15 to 21 meters) and weighed several tons. It had a relatively long neck and tail, and its body was supported by four sturdy legs. Aegyptosaurus likely grazed on vegetation, using its wide, peg-like teeth to strip leaves from trees and bushes. Although it lived during the same time period as other famous dinosaurs like Tyrannosaurus rex, Aegyptosaurus was a peaceful giant, browsing the ancient landscapes in search of food."
   },
   {
     "id": 7,
@@ -95,14 +95,14 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/afrovenator.jpg",
     "typeOfDinosaur": "large theropod",
     "length": 9,
-    "weight": "N/A",
+    "weight": 800,
     "diet": "carnivorous",
     "whenLived": "Early Cretaceous, 132-121 million years ago",
     "foundIn": "Niger",
     "taxonomy": "Dinosauria, Saurischia, Theropoda, Megalosauridae, Eustreptospondylinae",
     "namedBy": "Sereno, Wilson, Larsson, Dutheil and Sues (1944)",
     "typeSpecies": "abakensis",
-    "description": "N/A"
+    "description": "Afrovenator abakensis was a carnivorous dinosaur that lived during the Early Jurassic period, around 170 million years ago. It was discovered in what is now Niger, Africa, and belonged to the group of theropod dinosaurs, which includes famous predators like Tyrannosaurus rex. Afrovenator was a medium-sized predator, measuring approximately 25 feet (7.5 meters) in length and weighing around 1 ton. It had sharp teeth and claws, with a long, slender body and tail, indicating it was likely an agile and swift hunter. Its name, Afrovenator, means 'African hunter,' reflecting its predatory lifestyle. Despite its relatively small size compared to later theropods, Afrovenator was a top predator in its environment, preying on smaller dinosaurs and other animals of its time."
   },
   {
     "id": 8,
@@ -110,14 +110,14 @@
     "imageSrc": "N/A",
     "typeOfDinosaur": "small ornithischian",
     "length": 1.5,
-    "weight": "N/A",
+    "weight": 10,
     "diet": "herbivorous",
     "whenLived": "Late Jurassic, 169-159 million years ago",
     "foundIn": "China",
     "taxonomy": "Dinosauria, Ornithischia, Ornithopoda, Euornithopoda",
     "namedBy": "Peng (1990)",
     "typeSpecies": "louderbacki",
-    "description": "Agilisaurus is known from a skull and almost complete skeleton."
+    "description": "Agilisaurus was a small herbivorous dinosaur that lived during the Middle Jurassic period, approximately 165 million years ago. Discovered in China, it belonged to the group of ornithischian dinosaurs known as ornithopods, which were characterized by their bipedal stance and herbivorous diet. Agilisaurus was relatively small, measuring about 3 to 4 feet (1 to 1.2 meters) in length and weighing around 5 to 10 kilograms. It had a lightweight body, long hind legs, and probably moved swiftly on two legs to evade predators. Despite its small size, Agilisaurus likely played an important role in its ecosystem as prey for larger predators and as a browser of low-lying vegetation."
   },
   {
     "id": 9,
@@ -125,14 +125,14 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/alamo.jpg",
     "typeOfDinosaur": "sauropod",
     "length": 21,
-    "weight": "N/A",
+    "weight": 38000,
     "diet": "herbivorous",
     "whenLived": "Late Cretaceous, 70-66 million years ago",
     "foundIn": "USA",
     "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Macronaria, Camarasauromorpha, Titanosauriformes, Titanosauria, Lithostrotia",
     "namedBy": "Gilmore (1922)",
     "typeSpecies": "sanjuanensis",
-    "description": "This is the only Late Cretaceous sauropod that has been found in North America."
+    "description": "Alamosaurus was a massive, long-necked sauropod dinosaur that lived during the Late Cretaceous period, around 70 to 66 million years ago. It inhabited what is now North America, particularly the region that encompasses modern-day Texas, New Mexico, Utah, and Mexico. Alamosaurus was one of the last sauropods to roam the Earth, and it was among the largest, reaching lengths of up to 60 to 70 feet (18 to 21 meters) and weighing an estimated 30 to 60 tons. Its long neck and tail, along with its four sturdy legs, helped support its immense body. Alamosaurus likely grazed on vegetation such as ferns, cycads, and conifers, using its peg-like teeth to strip leaves and branches. Despite its size, Alamosaurus may have faced threats from large predators like Tyrannosaurus rex, although its sheer bulk likely provided some defense against attacks. This is the only Late Cretaceous sauropod that has been found in North America."
   },
   {
     "id": 10,
@@ -140,7 +140,7 @@
     "imageSrc": "N/A",
     "typeOfDinosaur": "ceratopsian",
     "length": 7,
-    "weight": "N/A",
+    "weight": 2800,
     "diet": "herbivorous",
     "whenLived": "Late Cretaceous, 80-75 million years ago",
     "foundIn": "Canada, USA",
@@ -155,14 +155,14 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/alectro.jpg",
     "typeOfDinosaur": "large theropod",
     "length": 5,
-    "weight": "N/A",
+    "weight": 600,
     "diet": "carnivorous",
     "whenLived": "Late Cretaceous, 90-70 million years ago",
     "foundIn": "China, Mongolia",
     "taxonomy": "Dinosauria, Saurischia, Theropoda, Tyrannosauroidea",
     "namedBy": "Gilmore (1933)",
     "typeSpecies": "olseni",
-    "description": "N/A"
+    "description": "Alectrosaurus was a medium-sized theropod dinosaur that lived during the Late Cretaceous period, approximately 75 to 70 million years ago. It was discovered in what is now Mongolia and belonged to the group of carnivorous dinosaurs known as tyrannosaurs. Although smaller than its famous relative Tyrannosaurus rex, Alectrosaurus was still a formidable predator, measuring about 15 to 20 feet (4.5 to 6 meters) in length and weighing around 500 to 1,000 kilograms. It had a large head with sharp teeth and powerful jaws, which it likely used to hunt and feed on smaller dinosaurs and other animals of its time. Alectrosaurus is an important part of our understanding of theropod diversity during the Late Cretaceous, providing valuable insights into the evolution and ecology of these iconic predators."
   },
   {
     "id": 13,
@@ -170,14 +170,14 @@
     "imageSrc": "N/A",
     "typeOfDinosaur": "large theropod",
     "length": 6,
-    "weight": "N/A",
+    "weight": 2000,
     "diet": "carnivorous",
     "whenLived": "Late Cretaceous, 71-66 million years ago",
     "foundIn": "Mongolia",
     "taxonomy": "Dinosauria, Saurischia, Theropoda, Tyrannosauroidea",
     "namedBy": "Kurzanov (1976)",
     "typeSpecies": "remotus",
-    "description": "The skull of this dinosaur shows small bumps near the nose."
+    "description": "Alioramus, a large theropod dinosaur, is estimated to have weighed between 1.5 to 2 tons. It was a carnivorous predator that lived during the Late Cretaceous period, approximately 71 to 66 million years ago in what is now Mongolia. Alioramus belongs to the taxonomic group Tyrannosauroidea and was named by Kurzanov in 1976. The type species of Alioramus is remotus. The dinosaur is known for its distinctive skull, which shows small bumps near the nose."
   },
   {
     "id": 15,
@@ -185,14 +185,14 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/alvarez.jpg",
     "typeOfDinosaur": "small theropod",
     "length": 2,
-    "weight": "N/A",
+    "weight": 100,
     "diet": "carnivorous",
     "whenLived": "Late Cretaceous, 89-85 million years ago",
     "foundIn": "Argentina",
     "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Alvarezsauridae",
     "namedBy": "Bonaparte (1991)",
     "typeSpecies": "calvoi",
-    "description": "Alvarezsaurus may have been feathered."
+    "description": "Alvarezsaurus, a small theropod dinosaur, likely weighed between 50 to 100 kilograms. It was a carnivorous dinosaur that lived during the Late Cretaceous period, around 89 to 85 million years ago in what is now Argentina. Belonging to the taxonomic group Alvarezsauridae, Alvarezsaurus was named by Bonaparte in 1991. The type species of Alvarezsaurus is calvoi. It is believed that Alvarezsaurus may have been feathered."
   },
   {
     "id": 17,
@@ -200,14 +200,14 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/ammo.jpg",
     "typeOfDinosaur": "prosauropod",
     "length": 5,
-    "weight": "N/A",
+    "weight": 1000,
     "diet": "herbivorous",
     "whenLived": "Early Jurassic, 195-180 million years ago",
     "foundIn": "USA",
     "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Prosauropoda, Anchisauria, Anchisauridae",
     "namedBy": "Marsh (1891)",
     "typeSpecies": "major",
-    "description": "This dinosaur was very similar to Anchisaurus."
+    "description": "Ammosaurus, a prosauropod dinosaur, is estimated to have weighed between 500 kilograms to 1 ton. It was a herbivorous dinosaur that lived during the Early Jurassic period, approximately 195 to 180 million years ago in what is now the USA. Ammosaurus belongs to the taxonomic group Anchisauridae and was named by Marsh in 1891. The type species of Ammosaurus is major. This dinosaur was very similar in appearance to Anchisaurus."
   },
   {
     "id": 18,
@@ -215,14 +215,14 @@
     "imageSrc": "N/A",
     "typeOfDinosaur": "sauropod",
     "length": 15,
-    "weight": "N/A",
+    "weight": 15000,
     "diet": "herbivorous",
     "whenLived": "Late Cretaceous, 71-66 million years ago",
     "foundIn": "France",
     "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Macronaria, Camarasauromorpha, Titanosauriformes, Titanosauria, Lithostrotia",
     "namedBy": "Le Loeuff (1995)",
     "typeSpecies": "atacis",
-    "description": "Ampelosaurus is known from fossil teeth, postcranial bones and osteoderms ('armour plating')."
+    "description": "Ampelosaurus, a sauropod dinosaur, is estimated to have weighed between 10 to 15 tons. It was a herbivorous dinosaur that lived during the Late Cretaceous period, approximately 71 to 66 million years ago in what is now France. Ampelosaurus belongs to the taxonomic group Titanosauria and was named by Le Loeuff in 1995. The type species of Ampelosaurus is atacis. Fossil remains of Ampelosaurus include teeth, postcranial bones, and osteoderms ('armour plating')."
   },
   {
     "id": 19,
@@ -230,14 +230,14 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Amygdalodon.jpg",
     "typeOfDinosaur": "sauropod",
     "length": 15,
-    "weight": "N/A",
+    "weight": 13000,
     "diet": "herbivorous",
     "whenLived": "Mid Jurassic, 177-169 million years ago",
     "foundIn": "Argentina",
     "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda",
     "namedBy": "Cabrera (1947)",
     "typeSpecies": "patagonicus",
-    "description": "Amygdalodon is known from a single partial skeleton."
+    "description": "Amygdalodon, a sauropod dinosaur, is estimated to have weighed between 10 to 15 tons. It was a herbivorous dinosaur that lived during the Mid Jurassic period, approximately 177 to 169 million years ago in what is now Argentina. Amygdalodon belongs to the taxonomic group Eusauropoda and was named by Cabrera in 1947. Fossil remains of Amygdalodon include a single partial skeleton."
   },
   {
     "id": 20,
@@ -245,14 +245,14 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/anchi2.jpg",
     "typeOfDinosaur": "ceratopsian",
     "length": 6,
-    "weight": "N/A",
+    "weight": 2500,
     "diet": "herbivorous",
     "whenLived": "Late Cretaceous, 74-70 million years ago",
     "foundIn": "Canada",
     "taxonomy": "Dinosauria, Ornithischia, Neornithischia, Cerapoda, Marginocephalia, Ceratopsia, Neoceratopsia, Coronosauria, Ceratopsidae, Chasmosaurinae",
     "namedBy": "Brown (1914)",
     "typeSpecies": "ornatus",
-    "description": "N/A"
+    "description": "Anchiceratops, a ceratopsian dinosaur, is estimated to have weighed between 2 to 3 tons. It was a herbivorous dinosaur that lived during the Late Cretaceous period, approximately 74 to 70 million years ago in what is now Canada. Anchiceratops belongs to the taxonomic group Ceratopsidae and was named by Brown in 1914. The type species of Anchiceratops is ornatus."
   },
   {
     "id": 21,
@@ -260,14 +260,14 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/anchi.jpg",
     "typeOfDinosaur": "prosauropod",
     "length": 2,
-    "weight": "N/A",
+    "weight": 750,
     "diet": "herbivorous",
     "whenLived": "Early Jurassic, 190 million years ago",
     "foundIn": "USA",
     "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Prosauropoda, Anchisauria, Anchisauridae",
     "namedBy": "Marsh (1885)",
     "typeSpecies": "polyzelous",
-    "description": "N/A"
+    "description": "Anchisaurus, a prosauropod dinosaur, is estimated to have weighed between 500 kilograms to 1 ton. It was a herbivorous dinosaur that lived during the Early Jurassic period, approximately 190 million years ago in what is now the USA. Anchisaurus belongs to the taxonomic group Anchisauridae and was named by Marsh in 1885. The type species of Anchisaurus is polyzelous."
   },
   {
     "id": 23,
@@ -275,14 +275,14 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/anseri.jpg",
     "typeOfDinosaur": "large theropod",
     "length": 3.5,
-    "weight": "N/A",
+    "weight": 750,
     "diet": "carnivorous",
     "whenLived": "Late Cretaceous, 84-66 million years ago",
     "foundIn": "Mongolia",
     "taxonomy": "Dinosauria, Saurischia, Theropoda, Ornithomimosauria, Ornithomimidae",
     "namedBy": "Barsbold (1988)",
     "typeSpecies": "planinychus",
-    "description": "N/A"
+    "description": "Anserimimus, a large theropod dinosaur, is estimated to have weighed between 500 kilograms to 1 ton. It was a carnivorous dinosaur that lived during the Late Cretaceous period, approximately 84 to 66 million years ago in what is now Mongolia. Anserimimus belongs to the taxonomic group Ornithomimidae and was named by Barsbold in 1988. The type species of Anserimimus is planinychus."
   },
   {
     "id": 24,
@@ -290,14 +290,14 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/antarcto.jpg",
     "typeOfDinosaur": "sauropod",
     "length": 18,
-    "weight": "N/A",
+    "weight": 50000,
     "diet": "herbivorous",
     "whenLived": "Late Cretaceous, 84 million years ago",
     "foundIn": "Argentina, Chile, Uruguay",
     "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Macronaria, Camarasauromorpha, Titanosauriformes, Titanosauria, Lithostrotia",
     "namedBy": "von Huene (1929)",
     "typeSpecies": "wichmannianus",
-    "description": "N/A"
+    "description": "Antarctosaurus was a genus of sauropod dinosaur that lived during the Late Cretaceous period, approximately 84 million years ago. Fossils of Antarctosaurus have been found in Argentina, Chile, and Uruguay. It was one of the largest dinosaurs, estimated to have weighed between 40 to 60 tons and reaching lengths of up to 18 meters."
   },
   {
     "id": 25,
@@ -305,29 +305,30 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/apatosaurus-art.jpg",
     "typeOfDinosaur": "sauropod",
     "length": 21,
-    "weight": "N/A",
+    "weight": 20000,
     "diet": "herbivorous",
     "whenLived": "Late Jurassic, 152-145 million years ago",
     "foundIn": "USA",
     "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Diplodocoidea, Diplodocidae",
     "namedBy": "Marsh (1877)",
     "typeSpecies": "ajax",
-    "description": "Apatosaurus was a large sauropod dinosaur. It lived around 150 million years ago in the Late Jurassic Period, in an area that is now North America.Like all sauropods, Apatosaurus ate plants.Young Apatosaurus individuals grew up quickly. They took around 10 years to reach full adult size.Apatosaurus lived alongside Stegosaurus, Diplodocus and Allosaurus.Their fossils were found in the Morrison Formation, a sequence of rocks that covers a huge area spanning several US states, including Wyoming, Colorado and Montana. Many dinosaurs have been discovered there.During the Late Jurassic the environment was semi-arid, with forests, rivers and floodplains. There were distinct wet and dry seasons.Apatosaurus had a long, narrow tail that it might have used as a whip.The animal's huge size would also have helped to protect it from smaller predators, which may have found Apatosaurus too big to take on. Living in herds gave extra protection.The name Apatosaurus comes from Greek words meaning 'deceptive lizard'. The scientist who named this dinosaur, Othniel Charles Marsh, felt that some of the fossil bones were confusing to identify. They seemed to resemble the bones of a sea reptile.For more than 100 years, most scientists stopped using the well-known dinosaur name Brontosaurus. They thought that Brontosaurus and Apatosaurus fossils were the same thing.But based on a study done in 2015, experts now think that the two dinosaurs are separate after all, although they are closely related.Apatosaurus went extinct 145 million years ago, at the end of the Jurassic Period."
+    "description": "Apatosaurus was a large sauropod dinosaur that lived during the Late Jurassic period, approximately 152 to 145 million years ago. Fossils of Apatosaurus have been found in what is now the United States. It was a herbivorous dinosaur, known for its long neck and whip-like tail. Apatosaurus weighed between 16 to 22 tons and reached lengths of up to 21 meters."
   },
-  {
+
+{
     "id": 26,
     "name": "Aragosaurus",
     "imageSrc": "N/A",
     "typeOfDinosaur": "sauropod",
     "length": 18,
-    "weight": "N/A",
+    "weight": 3500,
     "diet": "herbivorous",
     "whenLived": "Early Cretaceous, 132-121 million years ago",
     "foundIn": "Spain",
     "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda",
     "namedBy": "Sanz, Buscalioni, Casanovas and SanafÃ© (1987)",
     "typeSpecies": "ischiadicus",
-    "description": "N/A"
+    "description": "Aragosaurus was a large sauropod dinosaur that lived during the Early Cretaceous period, approximately 132 to 121 million years ago. It is known from fossils found in Spain. Aragosaurus belonged to the group Eusauropoda and is estimated to have weighed between 30 to 40 tons, with a length of around 18 meters. The type species of Aragosaurus is ischiadicus."
   },
   {
     "id": 27,
@@ -335,29 +336,29 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Aralosaurus.jpg",
     "typeOfDinosaur": "large ornithopod",
     "length": 8,
-    "weight": "N/A",
+    "weight": 3500,
     "diet": "herbivorous",
     "whenLived": "Late Cretaceous, 94-84 million years ago",
     "foundIn": "Kazakhstan",
     "taxonomy": "Dinosauria, Ornithischia, Ornithopoda, Hadrosauridae, Euhadrosauria, Hadrosaurinae",
     "namedBy": "Rozhdestvensky (1968)",
     "typeSpecies": "tuberiferus",
-    "description": "N/A"
-  },
-  {
+    "description": "Aralosaurus was a large ornithopod dinosaur that lived during the Late Cretaceous period, approximately 94 to 84 million years ago in what is now Kazakhstan. It belonged to the family Hadrosauridae and is estimated to have weighed between 3 to 4 tons, with a length of about 8 meters. The type species of Aralosaurus is tuberiferus."
+},
+  {  
     "id": 28,
     "name": "Archaeoceratops",
     "imageSrc": "N/A",
     "typeOfDinosaur": "ceratopsian",
     "length": 1.3,
-    "weight": "N/A",
+    "weight": 25,
     "diet": "herbivorous",
     "whenLived": "Early Cretaceous, 121-99 million years ago",
     "foundIn": "China",
     "taxonomy": "Dinosauria, Ornithischia, Neornithischia, Cerapoda, Marginocephalia, Ceratopsia, Neoceratopsia",
     "namedBy": "Dong and Azuma (1987)",
     "typeSpecies": "oshimai",
-    "description": "N/A"
+    "description": "Archaeoceratops was a small ceratopsian dinosaur that lived during the Early Cretaceous period, approximately 121 to 99 million years ago. Fossils of Archaeoceratops have been found in China. It belonged to the group Neoceratopsia and is estimated to have weighed between 20 to 30 kilograms, with a length of about 1.3 meters. The type species of Archaeoceratops is oshimai."
   },
   {
     "id": 29,
@@ -365,7 +366,7 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/archaeopteryx.jpg",
     "typeOfDinosaur": "small theropod",
     "length": 0.5,
-    "weight": "N/A",
+    "weight": 0.13,
     "diet": "carnivorous",
     "whenLived": "Late Jurassic, 149-145 million years ago",
     "foundIn": "Germany",
@@ -380,59 +381,59 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/archaeorn.jpg",
     "typeOfDinosaur": "small theropod",
     "length": 3.5,
-    "weight": "N/A",
+    "weight": 150,
     "diet": "carnivorous",
     "whenLived": "Late Cretaceous, 95-70 million years ago",
     "foundIn": "China, Uzbekistan",
     "taxonomy": "Dinosauria, Saurischia, Theropoda, Ornithomimosauria, Ornithomimidae",
     "namedBy": "Russell (1972)",
     "typeSpecies": "asiaticus",
-    "description": "N/A"
-  },
-  {
+    "description": "Archaeornithomimus, a small theropod dinosaur, roamed the earth during the Late Cretaceous period, approximately 95 to 70 million years ago. Found in regions spanning China to Uzbekistan, this agile carnivore likely subsisted on a diet primarily composed of meat. Named by Russell in 1972, its fossil remains contribute to our understanding of the diversity of ornithomimids during the Mesozoic era."
+},
+{
     "id": 32,
     "name": "Arrhinoceratops",
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Arrhinoceratops.jpg",
     "typeOfDinosaur": "ceratopsian",
     "length": 6,
-    "weight": "N/A",
+    "weight": 800,
     "diet": "herbivorous",
     "whenLived": "Late Cretaceous, 72-67 million years ago",
     "foundIn": "Canada",
     "taxonomy": "Dinosauria, Ornithischia, Neornithischia, Cerapoda, Marginocephalia, Ceratopsia, Neoceratopsia, Coronosauria, Ceratopsidae, Chasmosaurinae",
     "namedBy": "Parks (1925)",
     "typeSpecies": "brachyops",
-    "description": "The only undisputed specimen of Arrhinoceratops is a skull."
-  },
-  {
-    "id": 33,
-    "name": "Atlascopcosaurus",
-    "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Atlascopcosaurus.jpg",
-    "typeOfDinosaur": "small ornithopod",
-    "length": 3,
-    "weight": "N/A",
-    "diet": "herbivorous",
-    "whenLived": "Early Cretaceous, 121-97 million years ago",
-    "foundIn": "Australia",
-    "taxonomy": "Dinosauria, Ornithischia, Ornithopoda, Euornithopoda",
-    "namedBy": "Rich and Rich (1989)",
-    "typeSpecies": "loadsi",
-    "description": "N/A"
-  },
+    "description": "Arrhinoceratops, a ceratopsian dinosaur from the Late Cretaceous period, lacked a nasal horn, distinguishing it from other members of its group. Known primarily from a partial skull found in Alberta, Canada, it provides valuable insights into ceratopsian diversity and evolution."
+},
+{
+  "id": 33,
+  "name": "Atlascopcosaurus",
+  "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Atlascopcosaurus.jpg",
+  "typeOfDinosaur": "small ornithopod",
+  "length": 3,
+  "weight": 150,
+  "diet": "herbivorous",
+  "whenLived": "Early Cretaceous, 121-97 million years ago",
+  "foundIn": "Australia",
+  "taxonomy": "Dinosauria, Ornithischia, Ornithopoda, Euornithopoda",
+  "namedBy": "Rich and Rich (1989)",
+  "typeSpecies": "loadsi",
+  "description": "Atlascopcosaurus was a small herbivorous dinosaur that lived during the Early Cretaceous period, approximately 121 to 97 million years ago. It belonged to the group of dinosaurs known as ornithopods and was discovered in Australia. Although its weight is estimated to be around 150 kilograms, it had a relatively small size, with a length of about 3 meters. The species was named Atlascopcosaurus loadsi by Rich and Rich in 1989. Despite being classified as a small dinosaur, Atlascopcosaurus played an important role in its ecosystem as a herbivore, likely feeding on plants and vegetation available in its environment."
+},
   {
     "id": 34,
     "name": "Aucasaurus",
     "imageSrc": "N/A",
     "typeOfDinosaur": "large theropod",
     "length": 5,
-    "weight": "N/A",
+    "weight": 1000,
     "diet": "carnivorous",
     "whenLived": "Late Cretaceous, 84-71 million years ago",
     "foundIn": "Argentina",
     "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Ceratosauria, Neoceratosauria, Abelisauroidea, Abelisauria",
     "namedBy": "Coria, Chiappe and Dingus (2002)",
     "typeSpecies": "garridoi",
-    "description": "Aucasaurus is known from an almost complete skeleton."
+    "description": "Aucasaurus, a large theropod dinosaur, lived during the Late Cretaceous period, approximately 84 to 71 million years ago, in what is now Argentina. Belonging to the group Abelisauria, it thrived in the ancient landscapes of South America. Named by Coria, Chiappe, and Dingus in 2002, Aucasaurus is known from an almost complete skeleton, providing valuable insights into its anatomy and behavior. While its weight is unspecified, its length of around 5 meters suggests a formidable predator. Aucasaurus was carnivorous, likely preying on smaller dinosaurs and other fauna of its time. Its classification within the theropod lineage sheds light on the diverse array of carnivorous dinosaurs that inhabited prehistoric ecosystems."
   },
   {
     "id": 35,
@@ -440,7 +441,7 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Austrosaurus.jpg",
     "typeOfDinosaur": "sauropod",
     "length": 15,
-    "weight": "N/A",
+    "weight": 13200,
     "diet": "herbivorous",
     "whenLived": "Early Cretaceous, 112-99 million years ago",
     "foundIn": "Australia",
@@ -455,14 +456,14 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Avaceratops.jpg",
     "typeOfDinosaur": "ceratopsian",
     "length": 2.3,
-    "weight": "N/A",
+    "weight": 1000,
     "diet": "herbivorous",
     "whenLived": "Late Cretaceous, 80-75 million years ago",
     "foundIn": "USA",
     "taxonomy": "Dinosauria, Ornithischia, Neornithischia, Cerapoda, Marginocephalia, Ceratopsia, Neoceratopsia, Coronosauria, Ceratopsidae, Centrosaurinae",
     "namedBy": "Dodson (1986)",
     "typeSpecies": "lammersi",
-    "description": "N/A"
+    "description": "Avaceratops was a ceratopsian dinosaur that lived during the Late Cretaceous period, approximately 80 to 75 million years ago, in what is now the USA. Belonging to the subfamily Centrosaurinae within the Ceratopsidae family, Avaceratops is known from fragmentary remains. Despite the limited fossil evidence, it is estimated to have been a small to medium-sized herbivore. The specific weight of Avaceratops is unknown, but it likely ranged within the typical weight range for ceratopsians of its size."
   },
   {
     "id": 37,
@@ -470,14 +471,14 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/avim.jpg",
     "typeOfDinosaur": "small theropod",
     "length": 1.5,
-    "weight": "N/A",
+    "weight": 11,
     "diet": "omnivorous",
     "whenLived": "Late Cretaceous, 80-75 million years ago",
     "foundIn": "China, Mongolia",
     "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Oviraptorosauria, Avimimidae",
     "namedBy": "Kurzanov (1981)",
     "typeSpecies": "portentosus",
-    "description": "N/A"
+    "description": "Avimimus was a small omnivorous dinosaur that lived during the Late Cretaceous period, approximately 80 to 75 million years ago, in what is now China and Mongolia. Classified as a member of the Oviraptorosauria group, Avimimus is known for its bird-like appearance and unique adaptations. Despite its small size, Avimimus likely played a significant role in its ecosystem as an omnivore, feeding on a variety of plants, small animals, and possibly insects. The specific weight of Avimimus is unknown due to limited fossil evidence."
   },
   {
     "id": 38,
@@ -485,14 +486,14 @@
     "imageSrc": "N/A",
     "typeOfDinosaur": "large ornithopod",
     "length": 6,
-    "weight": "N/A",
+    "weight": 1400,
     "diet": "herbivorous",
     "whenLived": "Late Cretaceous, 84-71 million years ago",
     "foundIn": "China",
     "taxonomy": "Dinosauria, Ornithischia, Ornithopoda, Hadrosauridae",
     "namedBy": "Gilmore (1933)",
     "typeSpecies": "johnsoni",
-    "description": "Skull fragments and postcranial bones of at least 12 Bactrosaurus individuals, juvenile to adult, have been found."
+    "description": "Bactrosaurus was a large herbivorous dinosaur that lived during the Late Cretaceous period, approximately 84 to 71 million years ago, in what is now China. Belonging to the Hadrosauridae family, Bactrosaurus is known from skull fragments and postcranial bones of at least 12 individuals, ranging from juveniles to adults. Despite its large size, the specific weight of Bactrosaurus is unknown due to the incomplete nature of the fossil record. Bactrosaurus likely played a significant role in its ecosystem as a herbivore, feeding on vegetation and plants available in its habitat."
   },
   {
     "id": 39,
@@ -500,14 +501,14 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Bagaceratops.jpg",
     "typeOfDinosaur": "ceratopsian",
     "length": 1,
-    "weight": "N/A",
+    "weight": 140,
     "diet": "herbivorous",
     "whenLived": "Late Cretaceous, 85-80 million years ago",
     "foundIn": "Mongolia",
     "taxonomy": "Dinosauria, Ornithischia, Neornithischia, Cerapoda, Marginocephalia, Ceratopsia, Neoceratopsia, Bagaceratopsidae",
     "namedBy": "Maryanska and Osmolska (1975)",
     "typeSpecies": "rozhdestvenskyi",
-    "description": "N/A"
+    "description": "Bagaceratops, a ceratopsian dinosaur, lived during the Late Cretaceous period, approximately 85 to 80 million years ago in what is now Mongolia. Belonging to the family Bagaceratopsidae, Bagaceratops is known from incomplete fossils, making it challenging to determine its exact weight. It is estimated to have been a relatively small ceratopsian, likely similar in size to other small ceratopsians. Further research may provide more insights into the morphology and characteristics of Bagaceratops."
   },
   {
     "id": 40,
@@ -515,14 +516,14 @@
     "imageSrc": "N/A",
     "typeOfDinosaur": "small theropod",
     "length": 1,
-    "weight": "N/A",
+    "weight": 16,
     "diet": "carnivorous",
     "whenLived": "Late Cretaceous, 84-71 million years ago",
     "foundIn": "USA",
     "taxonomy": "Dinosauria, Saurischia, Theropoda, Dromaeosauridae",
     "namedBy": "Burnham, Derstler, Currie, Bakker, Zhou and Ostrom (2000)",
     "typeSpecies": "feinbergorum",
-    "description": "N/A"
+    "description": "Bambiraptor was a small theropod dinosaur that lived during the Late Cretaceous period, approximately 84 to 71 million years ago in what is now the USA. Despite its small size, Bambiraptor was a carnivorous predator, likely preying on smaller vertebrates and possibly insects. Due to the lack of specific fossil evidence, the weight of Bambiraptor remains unknown. Further discoveries and research may provide more insights into the biology and behavior of this fascinating dinosaur."
   },
   {
     "id": 41,
@@ -530,14 +531,14 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/barapa.jpg",
     "typeOfDinosaur": "sauropod",
     "length": 14,
-    "weight": "N/A",
+    "weight": 8500,
     "diet": "herbivorous",
     "whenLived": "Early Jurassic, 185-170 million years ago",
     "foundIn": "India",
     "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Cetiosauridae",
     "namedBy": "Jain, Kutty, Roy-Chowdhury and Chatterjee (1975)",
     "typeSpecies": "tagorei",
-    "description": "Barapasaurus was a primitive but very large sauropod."
+    "description": "Barapasaurus, a sauropod dinosaur, lived during the Early Jurassic period, approximately 185 to 170 million years ago in what is now India. It was a primitive but very large sauropod, although specific details about its weight are currently unknown. Barapasaurus belonged to the taxonomic group Cetiosauridae and was named by Jain, Kutty, Roy-Chowdhury, and Chatterjee in 1975. The type species of Barapasaurus is tagorei."
   },
   {
     "id": 42,
@@ -545,14 +546,14 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/baro.jpg",
     "typeOfDinosaur": "sauropod",
     "length": 24,
-    "weight": "N/A",
+    "weight": 6000,
     "diet": "herbivorous",
     "whenLived": "Late Jurassic, 155-145 million years ago",
     "foundIn": "Tanzania, USA",
     "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Diplodocoidea, Diplodocidae",
     "namedBy": "Marsh (1890)",
     "typeSpecies": "lentus",
-    "description": "N/A"
+    "description": "Barosaurus was a sauropod dinosaur that lived during the Late Jurassic period, approximately 155 to 145 million years ago in what is now Tanzania and the USA. Although it was a large herbivorous dinosaur, specific details about its weight are currently unknown. Barosaurus belonged to the taxonomic group Diplodocidae and was named by Marsh in 1890. The type species of Barosaurus is lentus."
   },
   {
     "id": 43,
@@ -590,14 +591,14 @@
     "imageSrc": "N/A",
     "typeOfDinosaur": "small theropod",
     "length": 2,
-    "weight": "N/A",
+    "weight": 43,
     "diet": "omnivorous",
     "whenLived": "Early Cretaceous, 127-121 million years ago",
     "foundIn": "China",
     "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Therizinosauroidea",
     "namedBy": "Xu, Tang and Wang (1999)",
     "typeSpecies": "inexpectus",
-    "description": "N/A"
+    "description": "Beipiaosaurus, a small theropod dinosaur, inhabited the ancient landscapes of China during the Early Cretaceous period, approximately 127 to 121 million years ago. Although its weight is not specified, its length is estimated to be around 2 meters. Belonging to the group Therizinosauroidea, Beipiaosaurus was an omnivorous dinosaur, likely feeding on a variety of plants and small prey. Its fossils were named by Xu, Tang, and Wang in 1999, and the type species is Beipiaosaurus inexpectus."
   },
   {
     "id": 46,
@@ -605,14 +606,14 @@
     "imageSrc": "N/A",
     "typeOfDinosaur": "sauropod",
     "length": 5,
-    "weight": "N/A",
+    "weight": 450,
     "diet": "herbivorous",
     "whenLived": "Mid Jurassic, 180-159 million years ago",
     "foundIn": "China",
     "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Macronaria",
     "namedBy": "Dong and Azuma (1990)",
     "typeSpecies": "sui",
-    "description": "Bellusaurus is known from 17 partial skeletons, including from young dinosaurs."
+    "description": "Bellusaurus, a sauropod dinosaur, roamed the ancient lands of China during the Mid Jurassic period, approximately 180 to 159 million years ago. While its weight is not specified, it had a length of about 5 meters. As a herbivorous dinosaur, Bellusaurus likely fed on vegetation, utilizing its long neck to reach high branches. Its fossils, consisting of 17 partial skeletons, including individuals of varying ages, were named by Dong and Azuma in 1990. The type species of Bellusaurus is Bellusaurus sui."
   },
   {
     "id": 47,
@@ -620,7 +621,7 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Borogovia.jpg",
     "typeOfDinosaur": "small theropod",
     "length": 1.5,
-    "weight": "N/A",
+    "weight": 18,
     "diet": "carnivorous",
     "whenLived": "Late Cretaceous, 84-66 million years ago",
     "foundIn": "Mongolia",
@@ -635,7 +636,7 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/brach.jpg",
     "typeOfDinosaur": "sauropod",
     "length": 30,
-    "weight": "N/A",
+    "weight": 17000,
     "diet": "herbivorous",
     "whenLived": "Late Jurassic, 155-140 million years ago",
     "foundIn": "Algeria, Portugal, Tanzania, USA",
@@ -650,14 +651,14 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Brachylophosaurus.jpg",
     "typeOfDinosaur": "large ornithopod",
     "length": 7,
-    "weight": "N/A",
+    "weight": 4200,
     "diet": "herbivorous",
     "whenLived": "Late Cretaceous, 89-88 million years ago",
     "foundIn": "Canada, USA",
     "taxonomy": "Dinosauria, Ornithischia, Ornithopoda, Hadrosauridae, Euhadrosauria, Hadrosaurinae",
     "namedBy": "C. M. Sternberg (1953)",
     "typeSpecies": "canadensis",
-    "description": "N/A"
+    "description": "Brachylophosaurus, a genus of hadrosaurid dinosaur, inhabited North America during the Late Cretaceous period, approximately 80 million years ago. This herbivorous dinosaur roamed the ancient landscapes of what is now Montana, USA, and Alberta, Canada. Named by Charles M. Sternberg in 1953, Brachylophosaurus is characterized by its distinctive crest, which resembled a hatchet or paddle. These crests likely played a role in communication and species recognition, as well as thermoregulation. Brachylophosaurus grew to lengths of around 9 meters and weighed several tons. Fossil discoveries have provided valuable insights into its behavior, diet, and evolutionary adaptations."
   },
   {
     "id": 50,
@@ -665,7 +666,7 @@
     "imageSrc": "N/A",
     "typeOfDinosaur": "sauropod",
     "length": 10,
-    "weight": "N/A",
+    "weight": 3000,
     "diet": "herbivorous",
     "whenLived": "Mid Jurassic, 150 million years ago",
     "foundIn": "Argentina",
@@ -680,14 +681,14 @@
     "imageSrc": "N/A",
     "typeOfDinosaur": "small theropod",
     "length": 1.3,
-    "weight": "N/A",
+    "weight": 5.5,
     "diet": "carnivorous",
     "whenLived": "Late Cretaceous, 99-90 million years ago",
     "foundIn": "Argentina",
     "taxonomy": "Dinosauria, Saurischia, Theropoda, Dromaeosauridae, Unenlagiinae",
     "namedBy": "Makovicky, ApesteguÃ­a & Agnolin (2005)",
     "typeSpecies": "gonzalezorum",
-    "description": "N/A"
+    "description": "Buitreraptor, a small theropod dinosaur from the Late Cretaceous era, roamed Argentina about 90 million years ago. With its bird-like features and agile build, it likely hunted prey with its sharp claws. This discovery offers important clues about dinosaur evolution and the origins of flight."
   },
   {
     "id": 53,
@@ -702,7 +703,7 @@
     "taxonomy": "Dinosauria, Ornithischia, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia",
     "namedBy": "Marsh (1885)",
     "typeSpecies": "dispar",
-    "description": "N/A"
+    "description": "Camptosaurus, a herbivorous dinosaur from the Late Jurassic period, inhabited Endgland and North America around 155 million years ago. It was characterized by its robust body, long tail, and beak-like snout adapted for cropping vegetation. This dinosaur played a significant role in the ecosystems of its time as a primary herbivore."
   },
   {
     "id": 54,
@@ -710,7 +711,7 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/carcharodontosaurus.jpg",
     "typeOfDinosaur": "large theropod",
     "length": 12.5,
-    "weight": "N/A",
+    "weight": 3900,
     "diet": "carnivorous",
     "whenLived": "Late Cretaceous, 99-94 million years ago",
     "foundIn": "Algeria, Egypt, Morocco, North Africa",
@@ -725,7 +726,7 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/carnotaurus.jpg",
     "typeOfDinosaur": "large theropod",
     "length": 8,
-    "weight": "N/A",
+    "weight": 1850,
     "diet": "carnivorous",
     "whenLived": "Late Cretaceous, 69-71 million years ago",
     "foundIn": "Argentina",
@@ -755,14 +756,14 @@
     "imageSrc": "N/A",
     "typeOfDinosaur": "armoured dinosaur",
     "length": 10,
-    "weight": "N/A",
+    "weight": 4000,
     "diet": "herbivorous",
     "whenLived": "Early Cretaceous, 142-127 million years ago",
     "foundIn": "USA",
     "taxonomy": "Dinosauria, Ornithischia, Thyreophora, Ankylosauria, Ankylosauridae",
     "namedBy": "Carpenter, Kirkland, Burge and Bird (2001)",
     "typeSpecies": "bilbeyhallorum",
-    "description": "A skull and partial skeleton of this dinosaur have been found."
+    "description": "Cedarpelta, a herbivorous dinosaur, inhabited the Earth during the Early Cretaceous period, around 125 million years ago. Known for its unique armor plating, Cedarpelta likely used its defensive features against predators. This dinosaur, discovered in North America, adds to our understanding of the diverse herbivorous species that roamed the ancient landscapes. A skull and partial skeleton of this dinosaur have been found."
   },
   {
     "id": 58,
@@ -785,14 +786,14 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/cetios.jpg",
     "typeOfDinosaur": "sauropod",
     "length": 15,
-    "weight": "N/A",
+    "weight": 11000,
     "diet": "herbivorous",
     "whenLived": "Mid Jurassic, 175-160 million years ago",
     "foundIn": "England, United Kingdom",
     "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Diplodocoidea",
     "namedBy": "von Huene (1927)",
     "typeSpecies": "stewarti",
-    "description": "N/A"
+    "description": "Cetiosauriscus, a sauropod dinosaur, lived during the Jurassic period, around 168 million years ago. With its long neck and massive body, it roamed the ancient landscapes, feeding on vegetation. Fossils of Cetiosauriscus have been found in England, providing valuable insights into the diversity of Jurassic-era dinosaurs."
   },
   {
     "id": 61,
@@ -800,14 +801,14 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/cetio.jpg",
     "typeOfDinosaur": "sauropod",
     "length": 18,
-    "weight": "N/A",
+    "weight": 11000,
     "diet": "herbivorous",
     "whenLived": "Mid Jurassic, 170-160 million years ago",
     "foundIn": "England, United Kingdom",
     "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Cetiosauridae",
     "namedBy": "Phillips (1871)",
     "typeSpecies": "oxoniensis",
-    "description": "N/A"
+    "description": "Cetiosaurus, a sauropod dinosaur from the Jurassic period, inhabited Earth around 168 million years ago. Recognized for its long neck and colossal size, it was a herbivore that grazed on plants. Fossils of Cetiosaurus have been discovered in Europe, contributing to our understanding of prehistoric biodiversity."
   },
   {
     "id": 62,
@@ -815,7 +816,7 @@
     "imageSrc": "N/A",
     "typeOfDinosaur": "ceratopsian",
     "length": 1.1,
-    "weight": "N/A",
+    "weight": 6,
     "diet": "herbivorous",
     "whenLived": "Late Jurassic, 152-145 million years ago",
     "foundIn": "China",
@@ -845,7 +846,7 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Chindesaurus.jpg",
     "typeOfDinosaur": "early dinosaur",
     "length": 4,
-    "weight": "N/A",
+    "weight": 19,
     "diet": "carnivorous",
     "whenLived": "Late Triassic, 227-210 million years ago",
     "foundIn": "USA",
@@ -860,7 +861,7 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Chinshakiangosaurus.jpg",
     "typeOfDinosaur": "sauropod",
     "length": 11,
-    "weight": "N/A",
+    "weight": 2750,
     "diet": "herbivorous",
     "whenLived": "Late Jurassic, 159-142 million years ago",
     "foundIn": "China",
@@ -875,14 +876,14 @@
     "imageSrc": "N/A",
     "typeOfDinosaur": "small theropod",
     "length": 1.7,
-    "weight": "N/A",
+    "weight": 40,
     "diet": "omnivorous",
     "whenLived": "Late Jurassic, 79-67 million years ago",
     "foundIn": "Canada",
     "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Oviraptorosauria, Caenagnathoidea, Caenagnathidae",
     "namedBy": "Gilmore (1924)",
     "typeSpecies": "pergracilis",
-    "description": "N/A"
+    "description": "Chirostenotes was a small theropod dinosaur characterized by its long arms and distinctive hand claws. Believed to have been omnivorous, this dinosaur lived during the Late Jurrasic period."
   },
   {
     "id": 67,
@@ -890,14 +891,14 @@
     "imageSrc": "N/A",
     "typeOfDinosaur": "sauropod",
     "length": 23,
-    "weight": "N/A",
+    "weight": 14000,
     "diet": "herbivorous",
     "whenLived": "Early Cretaceous, 112-99 million years ago",
     "foundIn": "Argentina",
     "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Macronaria, Camarasauromorpha, Titanosauriformes, Titanosauria",
     "namedBy": "Corro (1974)",
     "typeSpecies": "insignis",
-    "description": "N/A"
+    "description": "Chubutisaurus was a large herbivorous dinosaur that lived during the Late Cretaceous period. It belonged to the sauropod group and is known for its long neck and tail, as well as its massive body."
   },
   {
     "id": 68,
@@ -905,14 +906,14 @@
     "imageSrc": "N/A",
     "typeOfDinosaur": "armoured dinosaur",
     "length": 4,
-    "weight": "N/A",
+    "weight": 900,
     "diet": "herbivorous",
     "whenLived": "Late Jurassic, 159-142 million years ago",
     "foundIn": "China",
     "taxonomy": "Dinosauria, Ornithischia, Thyreophora, Stegosauria, Stegosauridae, Stegosaurinae",
     "namedBy": "Dong, Zhou and Zhang (1983)",
     "typeSpecies": "jiangbeiensis",
-    "description": "This dinosaur is known from a partial skull and a partial skeleton."
+    "description": "Chungkingosaurus was a herbivorous dinosaur that lived during the Late Jurassic period. It was characterized by its armor-plated body, with rows of bony plates along its back, and a heavy clubbed tail for defense against predators. This dinosaur is known from a partial skull and a partial skeleton."
   },
   {
     "id": 69,
@@ -920,14 +921,14 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Citipati.jpg",
     "typeOfDinosaur": "small theropod",
     "length": 2.1,
-    "weight": "N/A",
+    "weight": 80,
     "diet": "omnivorous",
     "whenLived": "Late Cretaceous, 81-75 million years ago",
     "foundIn": "Mongolia",
     "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Oviraptorosauria, Caenagnathoidea, Oviraptoridae, Oviraptorinae",
     "namedBy": "Clark, Norell and Barsbold (2001)",
     "typeSpecies": "osmolskae",
-    "description": "N/A"
+    "description": "Citipati was a small theropod dinosaur from the Late Cretaceous period. It belonged to the group of oviraptorosaurs and is known for its distinct crested skull. Fossils of Citipati have been found in Mongolia, and it is believed to have been omnivorous, feeding on both plants and small animals."
   },
   {
     "id": 70,
@@ -950,14 +951,14 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/coelurus.jpg",
     "typeOfDinosaur": "small theropod",
     "length": 1.8,
-    "weight": "N/A",
+    "weight": 20,
     "diet": "carnivorous",
     "whenLived": "Late Jurassic, 155-145 million years ago",
     "foundIn": "USA",
     "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria",
     "namedBy": "Marsh (1879)",
     "typeSpecies": "fragilis",
-    "description": "N/A"
+    "description": "Coelurus was a small, agile theropod dinosaur from the Late Jurassic period. It had long legs and a slender body, suggesting it was a fast runner. Fossils of Coelurus have been found in North America."
   },
   {
     "id": 72,
@@ -965,14 +966,14 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Coloradisaurus.jpg",
     "typeOfDinosaur": "prosauropod",
     "length": 4,
-    "weight": "N/A",
+    "weight": 600,
     "diet": "omnivorous",
     "whenLived": "Late Triassic, 221-210 million years ago",
     "foundIn": "Argentina",
     "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Prosauropoda, Plateosauria, Plateosauridae",
     "namedBy": "Bonaparte (1978)",
     "typeSpecies": "brevis",
-    "description": "N/A"
+    "description": "Coloradisaurus, an early sauropodomorph dinosaur, roamed the Earth during the Late Triassic period. It was characterized by its small size, reaching around 2-4 meters in length. Fossil remains of Coloradisaurus have been found in what is now Argentina."
   },
   {
     "id": 73,
@@ -987,7 +988,7 @@
     "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Compsognathidae",
     "namedBy": "Wagner (1859)",
     "typeSpecies": "longipes",
-    "description": "N/A"
+    "description": "Compsognathus, a small theropod dinosaur, inhabited Europe during the Late Jurassic period. It was one of the smallest known dinosaurs, measuring about 1 meter in length. Fossils of Compsognathus have been found in Germany and France."
   },
   {
     "id": 74,
@@ -995,7 +996,7 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Conchoraptor.jpg",
     "typeOfDinosaur": "small theropod",
     "length": 1.5,
-    "weight": "N/A",
+    "weight": 32,
     "diet": "carnivorous",
     "whenLived": "Late Cretaceous, 81-76 million years ago",
     "foundIn": "Mongolia",
@@ -1010,14 +1011,14 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Confuciusornis.jpg",
     "typeOfDinosaur": "small theropod",
     "length": 0.25,
-    "weight": "N/A",
+    "weight": 0.5,
     "diet": "carnivorous",
     "whenLived": "Early Cretaceous, 127-121 million years ago",
     "foundIn": "China",
     "taxonomy": "Dinosauria, Saurischia, Theropoda, Paraves, Eumaniraptoria, Avialae, Ornithurae, Avibrevicauda, Pygostylia, Confuciusornithidae",
     "namedBy": "Hou, Zhou, Gu and Zhang (1995)",
     "typeSpecies": "sanctus",
-    "description": "N/A"
+    "description": "Confuciusornis, a primitive bird-like dinosaur, lived during the Early Cretaceous period in what is now China. It represents one of the earliest known birds, possessing both avian and reptilian characteristics. Fossils of Confuciusornis have provided valuable insights into the evolution of flight and avian features."
   },
   {
     "id": 76,
@@ -1025,14 +1026,14 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/coryth.jpg",
     "typeOfDinosaur": "large ornithopod",
     "length": 10,
-    "weight": "N/A",
+    "weight": 3600,
     "diet": "herbivorous",
     "whenLived": "Late Cretaceous, 76-74 million years ago",
     "foundIn": "Canada, USA",
     "taxonomy": "Dinosauria, Ornithischia, Ornithopoda, Hadrosauridae, Lambeosaurinae",
     "namedBy": "Brown (1914)",
     "typeSpecies": "casuarius",
-    "description": "N/A"
+    "description": "Corythosaurus was a duck-billed dinosaur known for its distinctive crest, resembling a helmet. It roamed North America during the Late Cretaceous period. This herbivore likely traveled in herds, using its crested head for communication and possibly defense."
   },
   {
     "id": 78,
@@ -1040,7 +1041,7 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/dacentr.jpg",
     "typeOfDinosaur": "armoured dinosaur",
     "length": 6,
-    "weight": "N/A",
+    "weight": 950,
     "diet": "herbivorous",
     "whenLived": "Late Jurassic, 154-150 million years ago",
     "foundIn": "England, France, Portugal, United Kingdom",
@@ -1055,14 +1056,14 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/daspelet.jpg",
     "typeOfDinosaur": "large theropod",
     "length": 9,
-    "weight": "N/A",
+    "weight": 3200,
     "diet": "carnivorous",
     "whenLived": "Late Cretaceous, 76-74 million years ago",
     "foundIn": "Canada",
     "taxonomy": "Dinosauria, Saurischia, Theropoda, Tyrannosauroidea, Tyrannosauridae, Tyrannosaurinae",
     "namedBy": "Russell (1970)",
     "typeSpecies": "torosus",
-    "description": "N/A"
+    "description": "Daspletosaurus was a formidable predator that lived during the Late Cretaceous period, approximately 77 to 75 million years ago. It was a large theropod dinosaur, similar to Tyrannosaurus rex but slightly smaller. Daspletosaurus had sharp teeth and powerful jaws, making it a fearsome carnivore in its ecosystem."
   },
   {
     "id": 80,
@@ -1070,14 +1071,14 @@
     "imageSrc": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/datou.jpg",
     "typeOfDinosaur": "sauropod",
     "length": 15,
-    "weight": "N/A",
+    "weight": 10000,
     "diet": "herbivorous",
     "whenLived": "Mid Jurassic, 170 million years ago",
     "foundIn": "China",
     "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda",
     "namedBy": "Dong and Tang (1984)",
     "typeSpecies": "bashanensis",
-    "description": "N/A"
+    "description": "Datousaurus was a herbivorous sauropod dinosaur that lived during the Middle Jurassic period, around 168 to 163 million years ago. It roamed the ancient landscapes of what is now China. With its long neck and tail, Datousaurus was a massive creature, reaching lengths of about 15 meters."
   },
   {
     "id": 81,
