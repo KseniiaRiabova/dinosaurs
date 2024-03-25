@@ -1,17 +1,22 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
-function home() {
+function Home() {
   return (
     <div>
-      <div className="w-full justify-center align-center h-full ">
-        <div className="flex flex-row justify-between align-center">
+      <div>
+        <Link to="/map">
           <button>Map</button>
+        </Link>
+        <Link to="/dinos">
           <button>All About Dinosaurs</button>
+        </Link>
+        <Link to="/quiz">
           <button>Quiz</button>
-        </div>
+        </Link>
       </div>
     </div>
   );
 }
 
-export default home;
+export default Home;
